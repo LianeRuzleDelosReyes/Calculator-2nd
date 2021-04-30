@@ -1,0 +1,10 @@
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\bin\Debug\Calculator 2nd.exe.config
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\bin\Debug\Calculator 2nd.exe
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\bin\Debug\Calculator 2nd.pdb
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\obj\Debug\Calculator 2nd.csprojAssemblyReference.cache
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\obj\Debug\Calculator_2nd.Form1.resources
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\obj\Debug\Calculator_2nd.Properties.Resources.resources
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\obj\Debug\Calculator 2nd.csproj.GenerateResource.cache
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\obj\Debug\Calculator 2nd.csproj.CoreCompileInputs.cache
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\obj\Debug\Calculator 2nd.exe
+C:\Users\Liane Ruzle\source\repos\Calculator 2nd\Calculator 2nd\obj\Debug\Calculator 2nd.pdb
